@@ -13,7 +13,3 @@ A weather app. Because everyone builds one eventually.
 * Tailwind
 * Jotai
 * Axios
-
-## Author
-
-> [Ian Marshall](https://ianjstutor.github.io/ian-marshall/)
